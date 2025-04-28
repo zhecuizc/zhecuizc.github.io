@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a PhD candidate in Electrical and Electronic Engineering at University College Dublin (UCD), Ireland, under the supervision of Prof. John Sheridan and Dr. Le-Nam Tran.
+* I am currently a PhD candidate in Electrical and Electronic Engineering at University College Dublin (UCD), Ireland.
 
 * I obtained my Master of Science degree in Computer Science (Negotiated Learning) from UCD in 2022.
 
