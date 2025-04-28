@@ -26,8 +26,8 @@ author:
   name             : "Zhe Cui"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at UCD"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ireland"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "zhe.cui@ucdconnect.ie" 
 
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
