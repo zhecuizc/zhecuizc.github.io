@@ -26,7 +26,7 @@ Work Experience
   *Aug 2023 – Nov 2023*  
   - Conducted data analysis and applied machine learning models for public transport scheduling prediction.
 
-- **Research Intern**, SOTI, Galway  
+- **Software Developer**, SOTI, Galway  
   *May 2022 – Sep 2022*  
   - Worked on AI-enabled indoor localization methods based on WiFi signals and data analytics.
 
@@ -34,7 +34,7 @@ Work Experience
   *May 2021 – Sep 2021*  
   - Taught Python programming to students aged 10–12 as part of an international mentorship program.
 
-
+<!--
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -67,3 +67,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
