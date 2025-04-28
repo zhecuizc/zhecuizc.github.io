@@ -7,7 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+-I am currently a PhD candidate in Electrical and Electronic Engineering at University College Dublin (UCD), Ireland, under the supervision of Prof. John Sheridan and Dr. Le-Nam Tran.
+
+-I obtained my Master of Science degree in Computer Science (Negotiated Learning) from UCD in 2022.
+
+-I received my Bachelor of Science (Honours) degree in Software Development from South East Technological University (SETU), Ireland, in 2021.
+
+-My research interests include machine learning, deep learning, multi-modal data analysis, AIoT, and wireless signal processing.
+
 
 A data-driven personal website
 ======
