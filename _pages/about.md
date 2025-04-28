@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
--I am currently a PhD candidate in Electrical and Electronic Engineering at University College Dublin (UCD), Ireland, under the supervision of Prof. John Sheridan and Dr. Le-Nam Tran.
+*I am currently a PhD candidate in Electrical and Electronic Engineering at University College Dublin (UCD), Ireland, under the supervision of Prof. John Sheridan and Dr. Le-Nam Tran.
 
--I obtained my Master of Science degree in Computer Science (Negotiated Learning) from UCD in 2022.
+*I obtained my Master of Science degree in Computer Science (Negotiated Learning) from UCD in 2022.
 
--I received my Bachelor of Science (Honours) degree in Software Development from South East Technological University (SETU), Ireland, in 2021.
+*I received my Bachelor of Science (Honours) degree in Software Development from South East Technological University (SETU), Ireland, in 2021.
 
--My research interests include machine learning, deep learning, multi-modal data analysis, AIoT, and wireless signal processing.
+*My research interests include machine learning, deep learning, multi-modal data analysis, AIoT, and wireless signal processing.
 
 
 A data-driven personal website
