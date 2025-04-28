@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zc_profile.png"
+  avatar           : "cz_profile.png"
   name             : "Zhe Cui"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at UCD"
