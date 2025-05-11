@@ -22,11 +22,18 @@ author_profile: true
   </div>
 {% endfor %} -->
 
+<!-- horizontal line -->
+<hr />
+
 <ul>
   {% for award in site.awards reversed %}
-    <li>
+    <!-- <li>
       <strong>{{ award.title }}</strong> 
       <p>{{ award.description }}</p>
+    </li> -->
+    <li>
+        <strong>{{ award.title }}</strong><br />{{ award.description }}
     </li>
+
   {% endfor %}
 </ul>
