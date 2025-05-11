@@ -1,9 +1,9 @@
 {% include base_path %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.title %}
+{% assign title = post.title %}
 {% endif %}
 
 <div class="archive__item">
@@ -20,17 +20,28 @@
     </p> -->
 
 
+    <!-- <p>
+      <strong>{{ title }}</strong>
+
+      {% if post.paperurl %}
+      <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[<strong>PDF</strong>]</a>
+      {% endif %}
+
+      {% if post.citation %}
+      <br />{{ post.citation }}
+      {% endif %}
+    </p> -->
+
     <p>
-        <strong>{{ title }}</strong>
+      <strong>{{ title }}</strong>
+      {% if post.paperurl %}
+      <strong> <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[PDF]</a> </strong>
+      {% endif %}
+      {% if post.citation %}
+      <br />{{ post.citation }}
+      {% endif %}
+    </p>
 
-        {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[<strong>PDF</strong>]</a>
-        {% endif %}
-
-        {% if post.citation %}
-          <br />{{ post.citation }}
-        {% endif %}
-  </p>
 
 
   </article>
