@@ -9,7 +9,7 @@
 <div class="archive__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <p>
+    <!-- <p>
       <strong>{{ title }}</strong>
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}">[<strong>PDF</strong>]</a>
@@ -17,7 +17,21 @@
       {% if post.citation %}
         <br />{{ post.citation }}
       {% endif %}
-    </p>
+    </p> -->
+
+
+    <p>
+        <strong>{{ title }}</strong>
+
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">[<strong>PDF</strong>]</a>
+        {% endif %}
+
+        {% if post.citation %}
+          <br />{{ post.citation }}
+        {% endif %}
+  </p>
+
 
   </article>
 </div>
