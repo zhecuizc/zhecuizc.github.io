@@ -35,9 +35,16 @@ author_profile: true
 
 <!-- horizontal line -->
 <hr />
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+<ol>
+  {% for post in site.publications reversed %}
+    <li>
+      {% include archive-single.html %}
+    </li>
+  {% endfor %}
+</ol>
 
 
 
