@@ -1,0 +1,23 @@
+---
+layout: archive
+title: "Awards"
+permalink: /awards/
+author_profile: true
+---
+
+<!-- {% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %} -->
+
+{% include base_path %}
+
+{% for award in site.awards reversed %}
+  <div class="award-item">
+    <h2>{{ award.title }}</h2>
+    <!-- <p><strong>Venue:</strong> {{ award.venue }}</p> -->
+    <p><strong>Date:</strong> {{ award.date | date: "%B %d, %Y" }}</p>
+    <p>{{ award.description }}</p>
+    <!-- <p><a href="{{ award.link }}" target="_blank">More Info</a></p> -->
+    <!-- <p><strong>Citation:</strong> {{ award.citation }}</p> -->
+  </div>
+{% endfor %}
