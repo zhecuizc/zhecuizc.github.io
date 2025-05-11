@@ -214,6 +214,9 @@ collections:
   awards:
     output: true
     permalink: /:collection/:path/
+  professional_service:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/

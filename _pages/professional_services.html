@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Professional Services"
+permalink: /professional_services/
+author_profile: true
+---
+
+<!-- {% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %} -->
+
+{% include base_path %}
+
+<!-- horizontal line -->
+<hr />
+
+<ul>
+
+   {% for award in site.professional_services reversed %}
+   <li>
+       <strong>{{ award.title }}</strong><br />
+        {% if award.description %}
+            {{ award.description }}
+        {% endif %}
+   </li>
+
+</ul>
