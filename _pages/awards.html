@@ -11,13 +11,22 @@ author_profile: true
 
 {% include base_path %}
 
-{% for award in site.awards reversed %}
+<!-- {% for award in site.awards reversed %}
   <div class="award-item">
     <h2>{{ award.title }}</h2>
-    <!-- <p><strong>Venue:</strong> {{ award.venue }}</p> -->
+    <p><strong>Venue:</strong> {{ award.venue }}</p>
     <p><strong>Date:</strong> {{ award.date | date: "%B %d, %Y" }}</p>
     <p>{{ award.description }}</p>
-    <!-- <p><a href="{{ award.link }}" target="_blank">More Info</a></p> -->
-    <!-- <p><strong>Citation:</strong> {{ award.citation }}</p> -->
+    <p><a href="{{ award.link }}" target="_blank">More Info</a></p>
+    <p><strong>Citation:</strong> {{ award.citation }}</p>
   </div>
-{% endfor %}
+{% endfor %} -->
+
+<ul>
+  {% for award in site.awards reversed %}
+    <li>
+      <strong>{{ award.title }}</strong> 
+      <p>{{ award.description }}</p>
+    </li>
+  {% endfor %}
+</ul>
