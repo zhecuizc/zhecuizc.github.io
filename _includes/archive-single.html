@@ -12,8 +12,7 @@
     <p>
       <strong>{{ title }}</strong>
       {% if post.paperurl %}
-        <!-- <a href="{{ post.paperurl }}">[<strong>PDF</strong>]</a> -->
-        <a href="{{ post.paperurl }}" target="_blank">[<strong>PDF</strong>]</a>
+        <a href="{{ post.paperurl }}">[<strong>PDF</strong>]</a>
       {% endif %}
       {% if post.citation %}
         <br />{{ post.citation }}
