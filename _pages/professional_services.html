@@ -16,12 +16,12 @@ author_profile: true
 
 <ul>
 
-   {% for award in site.professional_services reversed %}
-   <li>
-       <strong>{{ award.title }}</strong><br />
-        {% if award.description %}
-            {{ award.description }}
-        {% endif %}
-   </li>
-
+   {% for service in site.professional_services reversed %}
+        <li>
+       <strong>{{ service.title }}</strong><br />
+            {% if service.description %}
+                {{ service.description }}
+            {% endif %}
+        </li>
+    {% endfor %}
 </ul>
