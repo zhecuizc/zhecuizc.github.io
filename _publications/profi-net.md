@@ -1,6 +1,6 @@
 ---
-title: "ProFi-Net: Prototype-based Feature Attention with Curriculum Augmentation for WiFi-based Gesture Recognition"
-date: 2025-04-01
-paperurl: 'https://arxiv.org/abs/2504.20193'
-citation: 'Zhe Cui, Shuxian Zhang, Kangzhi Lou, Le-Nam Tran. ProFi-Net: Prototype-based Feature Attention with Curriculum Augmentation for WiFi-based Gesture Recognition. The 9th APWeb-WAIM joint International Conference on Web and Big Data, 2025.'
+title: "A Transformer-based Multimodal Fusion Model for Efficient Crowd Counting Using Visual and Wireless Signals"
+date: 2025-03-01
+paperurl: 'https://ieeexplore.ieee.org/document/10978208'
+citation: 'Z. Cui, Y. Li and L. -N. Tran, "A Transformer-based Multimodal Fusion Model for Efficient Crowd Counting Using Visual and Wireless Signals," 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-6, doi: 10.1109/WCNC61545.2025.10978208.'
 ---
