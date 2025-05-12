@@ -4,5 +4,5 @@ date: 2025-01-01
 paperurl: 'https://ieeexplore.ieee.org/document/9901666'
 citation: >
   Yuli Li, Xiao Lu, <strong>Zhe Cui</strong>, Haixia Wang, Chunyang Sheng <br> 
-  The Chinese Control Conference, (2022)
+  The Chinese Control Conference, (2022).
 ---
