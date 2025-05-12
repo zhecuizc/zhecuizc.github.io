@@ -1,5 +1,5 @@
 ---
-title: "IEEE Internet of Things Invited Reviewer (IF: 10.6)"
-date: 2025-05-01
+title: "Neural Networks (IF: 6.0)"
+date: 2025-05-02
 # description: ""
 ---
