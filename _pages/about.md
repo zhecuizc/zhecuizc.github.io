@@ -13,7 +13,7 @@ redirect_from:
 
 * I received my Bachelor of Science (Honours) degree in Software Development from South East Technological University (SETU), Ireland, in 2021.
 
-* My research interests include machine learning, deep learning, multi-modal data analysis, AIoT, and wireless signal processing.
+* My research interests include machine learning, deep learning, multi-modal analysis, AIoT, and wireless signal processing.
 
 
 Work Experience
