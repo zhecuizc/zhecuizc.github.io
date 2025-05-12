@@ -1,5 +1,5 @@
 ---
-title: "A Transformer-based Multimodal Fusion Model for Efficient Crowd Counting Using Visual and Wireless Signals"
+title: "WiNum: Keyboard Number Key Recognition Using WiFi Signal"
 date: 2022-06-01
 paperurl: 'https://ieeexplore.ieee.org/document/10978208'
 citation: |
