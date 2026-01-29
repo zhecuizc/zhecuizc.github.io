@@ -1,6 +1,6 @@
 ---
 title: "Wiviformer: Crowd Counting Based on Multimodal Fusion of Visual Image and Wireless Signal"
-date: 2024-05-01
+date: 2026-01-20
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0925231226001086'
 citation: |
   <strong>Zhe Cui</strong> and Yuli Li, Le-Nam Tran <br>
